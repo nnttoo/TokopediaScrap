@@ -1,0 +1,14 @@
+{
+  "name": "tokopediascraping",
+  "version": "1.0.0",
+  "description": "scrap tokopedia",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
